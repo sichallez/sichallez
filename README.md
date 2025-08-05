@@ -29,6 +29,13 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, 
 
 ## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sichallez&layout=compact&hide_title=1&card_width=300" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sichallez&show_icons=true&line_height=27&count_private=true&card_width=300" alt="Simon Cheng's GitHub Stats" />
+</a>
+
 <!---
 sichallez/sichallez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
